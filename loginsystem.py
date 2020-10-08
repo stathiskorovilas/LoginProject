@@ -14,6 +14,8 @@ def allusernames ():
 		list2.append(y[0])
 	people.close()
 	return list2
+	#comment for fucking git
+	
 	
  
 #Opens the file and puts every password in a txt 
