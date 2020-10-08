@@ -14,7 +14,7 @@ def allusernames ():
 		list2.append(y[0])
 	people.close()
 	return list2
-	#comment for fucking git
+	#comment for fuckin
 	
 	
  
